@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ともすた</title>
+        <link>https://tomosta.jp/</link>
+        <description>プログラミング学習コミュニティ</description>
+        <lastBuildDate>Thu, 12 May 2022 01:42:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[プログラマのためのPC/スマホ/タブレットの選び方 2022年度版]]></title>
+            <link>https://tomosta.jp/blog/mac-android-2022/</link>
+            <guid>https://tomosta.jp/blog/mac-android-2022/</guid>
+            <content:encoded><![CDATA[春になって、これから新しく学習用、仕事用にコンピューターを揃えたいという方も少なくないでしょう。 WindowsかMacか、iPadは買うべきか。さまざまなデバイスが登場していて迷ってしまいます。そんなときの1つの指針と [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vue CLI(Vue UI) + Vue Router + Vuex (+ vuex-persist) を使ってメモ帳アプリを作ろう]]></title>
+            <link>https://tomosta.jp/free_lesson/vue3-vuex-vue-router/</link>
+            <guid>https://tomosta.jp/free_lesson/vue3-vuex-vue-router/</guid>
+            <content:encoded><![CDATA[この記事は、「これからはじめる人のJavaScript/Vue.jsの教科書」のVue3対応、アップデート記事です。本書をお持ちの方は、後半の記事を以下の記事に差し替えてご利用ください。 Vue.jsは、JavaScri [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[npmってなに？ Node.jsのバージョンを切り替えられるVolta / nとyarnも紹介]]></title>
+            <link>https://tomosta.jp/free_lesson/npm_volta/</link>
+            <guid>https://tomosta.jp/free_lesson/npm_volta/</guid>
+            <content:encoded><![CDATA[プログラミングやウェブ開発でよく利用される「npm」や「yarn」はなにか、Node.jsのバージョンを切り替えられるVoltaやnとともに紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Git/SourceTreeマスター講座をスタートしました（有料講座）]]></title>
+            <link>https://tomosta.jp/news/git-master-start/</link>
+            <guid>https://tomosta.jp/news/git-master-start/</guid>
+            <content:encoded><![CDATA[YouTubeで月額990円で学んで頂ける有料講座として、「Git/SourceTreeマスター講座」をスタートしました。 この講座では、無償のGitクライアント「SourceTree」を利用してGitの基本からGitH [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JavaScriptのwhile構文で万年カレンダーを作ろう]]></title>
+            <link>https://tomosta.jp/free_lesson/js-while-calendar/</link>
+            <guid>https://tomosta.jp/free_lesson/js-while-calendar/</guid>
+            <content:encoded><![CDATA[JavaScriptで同じような処理を繰り返したいときに使えるwhile構文を使って、万年カレンダーを作ってみましょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft EdgeとInternet Explorerってどう違うの？　Chromeの仲間ってどういう事？]]></title>
+            <link>https://tomosta.jp/blog/edge-vs-ie/</link>
+            <guid>https://tomosta.jp/blog/edge-vs-ie/</guid>
+            <content:encoded><![CDATA[2021年に登場したMicrosoftの最新OS『Windows 11』には、標準ウェブブラウザーとして「Microsoft Edge（以下、Edge）」が搭載されています。 Microsoftといえば、長らく「Inte [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[『PHP 7/8 プログラミングマスター講座』がUdemyメディアに取り上げられました]]></title>
+            <link>https://tomosta.jp/news/php-master-for-udemy-media/</link>
+            <guid>https://tomosta.jp/news/php-master-for-udemy-media/</guid>
+            <content:encoded><![CDATA[Udemyで販売中の『PHP 7/8 プログラミングマスター講座』が、Udemyメディアの「オンライン学習Udemyで上半期最も学ばれた講座7選 （Tech編／人気のPython,GitからReactまで）」に取り上げら [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[この夏学びたいプログラミング言語10選]]></title>
+            <link>https://tomosta.jp/blog/summer_study_2021/</link>
+            <guid>https://tomosta.jp/blog/summer_study_2021/</guid>
+            <content:encoded><![CDATA[一部の都府県が緊急事態宣言下のこの夏、外出を控えて自宅でのんびりしている方も少なくないでしょう。せっかくなので、この機会にプログラミングを学んでみませんか？ ここでは、この夏、学んでおきたいプログラミング言語をご紹介しま [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WordPress 5.8リリース。変更点とバージョンアップの注意点]]></title>
+            <link>https://tomosta.jp/blog/wordpress5-8/</link>
+            <guid>https://tomosta.jp/blog/wordpress5-8/</guid>
+            <content:encoded><![CDATA[WordPressが、5.8にバージョンアップしました。WordPressは小数第2位がマイナーバージョン、整数部と小数第1位がメジャーバージョンとされています。（5.9の次が 6.0になる予定？） メジャーバージョンに [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Next.js超入門 &#8211; セットアップからVercelへの公開まで]]></title>
+            <link>https://tomosta.jp/free_lesson/nextjs-basic/</link>
+            <guid>https://tomosta.jp/free_lesson/nextjs-basic/</guid>
+            <content:encoded><![CDATA[Next.jsは、Vercelというホスティングサービスなどを展開する企業が開発している JavaScriptフレームワークです。
+Reactという JavaScriptライブラリーをベースに開発されていて、大規模なサイト制作やウェブベースのプログラム開発などが可能なフレームワークとして開発されています。
+この講座では、まずは Next.jsのセットアップ方法から簡単なページの制作、公開までの流れを紹介していきましょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cookieを特定のサイトのものだけ削除する方法]]></title>
+            <link>https://tomosta.jp/blog/clear-cookie/</link>
+            <guid>https://tomosta.jp/blog/clear-cookie/</guid>
+            <content:encoded><![CDATA[ウェブサイトを開発していると、Cookieの値のせいで管理画面などにアクセスができなくなったり、正常に操作が行えなくなってしまうことがあります。 そんな時、Cookieを削除すると戻るのですが、この時ウェブブラウザーの機 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAMPで PHPのエラーを表示する方法]]></title>
+            <link>https://tomosta.jp/blog/mamp-display-errors/</link>
+            <guid>https://tomosta.jp/blog/mamp-display-errors/</guid>
+            <content:encoded><![CDATA[MAMPを使って PHPの開発をしているとき、PHPを書き間違えた時に次のような画面になってしまうことがあります（Google Chromeの場合）。 これは、PHPがエラーを出しているのに画面表示が OFFになっていて [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAG2NEWSにメルマガが紹介されました]]></title>
+            <link>https://tomosta.jp/news/20210529/</link>
+            <guid>https://tomosta.jp/news/20210529/</guid>
+            <content:encoded><![CDATA[まぐまぐ！が運営するメディアサイト『MAG2NEWS』に、ともすたが発行する有料メールマガジン『たにぐちまことのプログラミングと起業のことば辞典』が取り上げられました。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラミング学習に Macを選ぶならこれ！ 2021年版]]></title>
+            <link>https://tomosta.jp/blog/best-by-mac-2021/</link>
+            <guid>https://tomosta.jp/blog/best-by-mac-2021/</guid>
+            <content:encoded><![CDATA[プログラミングの学習に Macを購入しようなんていう方もいるかも知れません。現在 Macはデスクトップ型とノート型合わせて、さまざまな種類が販売されています。
+
+この中でプログラミング学習には、どんな Macを購入したら良いのでしょう？　いくつかポイントを紹介しましょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ウェブページの表示確認が簡単になる『Sizzy』]]></title>
+            <link>https://tomosta.jp/blog/sizzy/</link>
+            <guid>https://tomosta.jp/blog/sizzy/</guid>
+            <content:encoded><![CDATA[ウェブページを制作するとき、レスポンシブ・ウェブデザインの各ブレイクポイントが正しく表示されるかを確認するのはなかなか大変です。 そこで、開発者向けブラウザーの「Sizzy」を使うと便利です。 複数デバイスの解像度を並べ [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Google Chromeの「タブ」を使いこなそう！]]></title>
+            <link>https://tomosta.jp/blog/chome-tab/</link>
+            <guid>https://tomosta.jp/blog/chome-tab/</guid>
+            <content:encoded><![CDATA[ウェブブラウザーと言えば Chromeというほど浸透している Google Chrome。Chromeの大きな特徴の1つと言えば、タブを使って複数のサイトを同時に閲覧できることです。 とはいえ、タブをどんどん開いて閉じる [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SQLを実行するシンプルな方法 &#8211; mysqli::query]]></title>
+            <link>https://tomosta.jp/blog/mysqli_query/</link>
+            <guid>https://tomosta.jp/blog/mysqli_query/</guid>
+            <content:encoded><![CDATA[MySQLiのオブジェクトでデータベースに接続したら、SQLを実行することができます。シンプルな SQLを使う場合は queryメソッドが便利です。 SQLでエラーが発生た場合、falseが返り値になります。同時に、$m [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MySQL/MariaDBを扱おう &#8211; MySQLi]]></title>
+            <link>https://tomosta.jp/blog/mysqli/</link>
+            <guid>https://tomosta.jp/blog/mysqli/</guid>
+            <content:encoded><![CDATA[PHPとセットで使われることが多いデータベース（DB)が、MySQLおよびその後完成品である MariaDBです。 PHPで MySQL/MariaDBを扱うには、MySQLiオブジェクトを使います。 データベースと接続 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[セッションに情報を保存しよう &#8211; session_start / $_SESSION]]></title>
+            <link>https://tomosta.jp/blog/session/</link>
+            <guid>https://tomosta.jp/blog/session/</guid>
+            <content:encoded><![CDATA[ウェブは、ページを移るとそれまでの情報はすべて消えてしまいます。これを「セッションが切れる」と言います。そのため、ページ間で情報を共有したい場合はセッションに情報を保存しておく必要があります。次のようなHTMLを準備しま [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PHPで Cookieを扱う &#8211; setcookie]]></title>
+            <link>https://tomosta.jp/blog/setcookie/</link>
+            <guid>https://tomosta.jp/blog/setcookie/</guid>
+            <content:encoded><![CDATA[Cookie（クッキー）とは、ウェブブラウザーにデータを保存できる機能のことで、ウェブ上の各種プログラミング言語で扱うことができます。PHPでも、次の setcookieファンクションを利用すれば保存できます。 まずは、 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[フォームの入力をフィルタリングする &#8211; filter_input]]></title>
+            <link>https://tomosta.jp/blog/filter_input/</link>
+            <guid>https://tomosta.jp/blog/filter_input/</guid>
+            <content:encoded><![CDATA[ウェブからの入力は、そのまま保存したり扱ったりするのは危険です。例えば、次のようなフォームを作成します。 この時、例えば「&lt;script&gt;&#8230;&lt;/script&gt;」など、JavaScrip [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CSVファイルを扱う &#8211; fgetcsv, fputcsv]]></title>
+            <link>https://tomosta.jp/blog/csv/</link>
+            <guid>https://tomosta.jp/blog/csv/</guid>
+            <content:encoded><![CDATA[構造化されたデータをファイルに保存する方法はいくつかありますが、CSV形式なら Excel等のスプレッドシートでも扱いやすくて便利です。 PHPで CSVを扱うには、SplFileObjectの CSV関連メソッドを利用 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ファイルに入出力する &#8211; SplFileObject]]></title>
+            <link>https://tomosta.jp/blog/splfileobject/</link>
+            <guid>https://tomosta.jp/blog/splfileobject/</guid>
+            <content:encoded><![CDATA[PHPでファイルを入出力する場合、fgetsや file_get_contents等のファンクションを使うこともできますが、SplFileObjectオブジェクトを利用すると便利です。 ファイルを書き込む まずは、ファイ [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[インスタンスのクラスを判断する &#8211; instanceof]]></title>
+            <link>https://tomosta.jp/blog/instanceof/</link>
+            <guid>https://tomosta.jp/blog/instanceof/</guid>
+            <content:encoded><![CDATA[各インスタンスが、どのクラスのものであるかを判断するには「instanceof」という演算子を使います。例えば次の例を見てみましょう。 この時、「$x」というインスタンスが Itemクラスであるかは次のように判定できます [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[インスタンスを複製する &#8211; clone]]></title>
+            <link>https://tomosta.jp/blog/clone/</link>
+            <guid>https://tomosta.jp/blog/clone/</guid>
+            <content:encoded><![CDATA[次のプログラムを見てみましょう。 ここで、同じ「Item」というクラスのインスタンスをさらに作りたいとします。この時、すでに作った「$item01」を代入してしまうと、おかしなことが起こります。 ここで、$item01の [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[外からアクセスできる静的メソッドと静的プロパティ]]></title>
+            <link>https://tomosta.jp/blog/static/</link>
+            <guid>https://tomosta.jp/blog/static/</guid>
+            <content:encoded><![CDATA[次のプログラムを見てみましょう。 Itemというクラスには、消費税率が定義されていて、それを取得するメソッドが定義されています。しかし、現状では消費税を知るためだけにわざわざインスタンスを作らなければなりません。 このよ [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[自動で使えるマジックメソッド]]></title>
+            <link>https://tomosta.jp/blog/%e8%87%aa%e5%8b%95%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af%e3%83%a1%e3%82%bd%e3%83%83%e3%83%89/</link>
+            <guid>https://tomosta.jp/blog/%e8%87%aa%e5%8b%95%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af%e3%83%a1%e3%82%bd%e3%83%83%e3%83%89/</guid>
+            <content:encoded><![CDATA[コンストラクターを作成するとき、「__construct」というメソッドを定義しました。このアンダースコア2つから始まるメソッドは、PHPのクラス定義にあらかじめ決められている「マジックメソッド」と呼ばれるメソッドの一つ [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[クラスを分類できるネームスペース（名前空間） &#8211; namespace]]></title>
+            <link>https://tomosta.jp/blog/namespace/</link>
+            <guid>https://tomosta.jp/blog/namespace/</guid>
+            <content:encoded><![CDATA[クラスの数が増えてくると整理がしにくくなったり、また複数の外部ファイルを読み込んだりすると、クラス名が重複したりする事があります。 これを防ぐために、クラスはネームスペース（名前空間）に分類して管理することができます。例 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[処理を再利用できるトレイト &#8211; trait]]></title>
+            <link>https://tomosta.jp/blog/trait/</link>
+            <guid>https://tomosta.jp/blog/trait/</guid>
+            <content:encoded><![CDATA[関連性のない複数のクラスで、共通の処理を使いたいときなどに便利なのがトレイト（Trait）です。例えば、次のプログラムを見てみましょう。 Itemというクラスと、Serviceというクラスが定義されていて、Itemには「 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[定義なしで使える標準クラス &#8211; stdClass]]></title>
+            <link>https://tomosta.jp/blog/stdclass/</link>
+            <guid>https://tomosta.jp/blog/stdclass/</guid>
+            <content:encoded><![CDATA[オブジェクト指向プログラミングに慣れてくると、関連のある情報をクラスにまとめたくなってきます。そんな時、わざわざクラスを定義しなくても使える便利なクラスがあります。 stdClassを利用しよう 次のようなプログラムを作 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[抽象クラスと抽象メソッド &#8211; abstract]]></title>
+            <link>https://tomosta.jp/blog/abstract/</link>
+            <guid>https://tomosta.jp/blog/abstract/</guid>
+            <content:encoded><![CDATA[PHPには「インターフェイス」という、クラスの定義にルールを課す手法があります。しかし、インターフェイスには具体的な処理を記述する事ができないため、必ず子クラスですべての処理を記述しなければなりません。 そこで、通常のク [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WordPressの投稿タイプを変更できる『Post Type Switcher 』]]></title>
+            <link>https://tomosta.jp/blog/post-type-switcher/</link>
+            <guid>https://tomosta.jp/blog/post-type-switcher/</guid>
+            <content:encoded><![CDATA[WordPressでは「投稿タイプ（ポストタイプ）」を自由に作ることができますが、うっかりポストタイプ名を間違えてしまったり、後から変えたり統合したい事があります。 そんな時に便利なプラグインが『Post Type Sw [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[インターフェイスを定義する &#8211; interface]]></title>
+            <link>https://tomosta.jp/blog/interface/</link>
+            <guid>https://tomosta.jp/blog/interface/</guid>
+            <content:encoded><![CDATA[次のプログラムを見てみましょう。 書籍を管理する「Book」と、鉛筆を管理する「Pencil」というクラスを定義しています。どちらも、金額を管理する「$price」というプロパティを定義していますが、一方はprivate [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[スーパークラス（親クラス）のメソッドを呼ぶ &#8211; parent::]]></title>
+            <link>https://tomosta.jp/blog/parent/</link>
+            <guid>https://tomosta.jp/blog/parent/</guid>
+            <content:encoded><![CDATA[クラスを継承した時、スーパークラスのメソッドを呼びたいときがあります。例えば、次のプログラムを見てみましょう。 Itemというクラスを継承して、Bookというクラスが作られています。Bookには、「$page」という子ク [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[パスワード保護でカスタムフィールドなども隠す &#8211; post_password_required]]></title>
+            <link>https://tomosta.jp/blog/hide_custom_fields_with_password/</link>
+            <guid>https://tomosta.jp/blog/hide_custom_fields_with_password/</guid>
+            <content:encoded><![CDATA[WordPressには「パスワード保護」という機能があり、パスワードを知っている人以外から記事の内容を隠すことができます。 しかし、この時隠すことができるのは本文だけでカスタムフィールドに入力した内容はそのまま表示されて [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Notionのセットアップ]]></title>
+            <link>https://tomosta.jp/blog/setup/</link>
+            <guid>https://tomosta.jp/blog/setup/</guid>
+            <content:encoded><![CDATA[Notionはウェブブラウザーさえあれば利用することができます。まずは、Notionのサイトにアクセスしましょう。 Notion 右上の「Sign up」をクリックしたらメールアドレスを入力するか、Googleアカウント [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[画面に文章を表示する &#8211; print, echo]]></title>
+            <link>https://tomosta.jp/blog/echo/</link>
+            <guid>https://tomosta.jp/blog/echo/</guid>
+            <content:encoded><![CDATA[echoは、画面に文章を表示するためのファンクション（正確には言語構造であってファンクションではありませんが）です。 パラメーターに、表示する内容を指定することでコンソールやHTML上に内容を表示することができます。 似 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WordPressの Docker環境が簡単に。wp-envを使ってみよう]]></title>
+            <link>https://tomosta.jp/blog/wp-env/</link>
+            <guid>https://tomosta.jp/blog/wp-env/</guid>
+            <content:encoded><![CDATA[WordPressのテーマやプラグインを作る場合、XAMPPや MAMPなどの仮想環境ソフトで作るとか、Dockerで作るなど色々な方法があります。そんな中、WordPressの開発チームで公式で開発環境を整備するための [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[無料のサーバーなのに WPも利用できる XFREEをご紹介]]></title>
+            <link>https://tomosta.jp/blog/%e7%84%a1%e6%96%99%e3%81%ae%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%aa%e3%81%ae%e3%81%ab-wp%e3%82%82%e5%88%a9%e7%94%a8%e3%81%a7%e3%81%8d%e3%82%8b-xfree%e3%82%92%e3%81%94%e7%b4%b9%e4%bb%8b/</link>
+            <guid>https://tomosta.jp/blog/%e7%84%a1%e6%96%99%e3%81%ae%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%81%aa%e3%81%ae%e3%81%ab-wp%e3%82%82%e5%88%a9%e7%94%a8%e3%81%a7%e3%81%8d%e3%82%8b-xfree%e3%82%92%e3%81%94%e7%b4%b9%e4%bb%8b/</guid>
+            <content:encoded><![CDATA[無料なのに PHPや WordPressが使える、学習用途にぴったりな XFREEをご紹介]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vue.js：ダウンロードボタンを、環境に応じて出し分けよう【プログラミングクッキング】]]></title>
+            <link>https://tomosta.jp/blog/vue-js%ef%bc%9a%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89%e3%83%9c%e3%82%bf%e3%83%b3%e3%82%92%e3%80%81%e7%92%b0%e5%a2%83%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6%e5%87%ba%e3%81%97%e5%88%86/</link>
+            <guid>https://tomosta.jp/blog/vue-js%ef%bc%9a%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89%e3%83%9c%e3%82%bf%e3%83%b3%e3%82%92%e3%80%81%e7%92%b0%e5%a2%83%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6%e5%87%ba%e3%81%97%e5%88%86/</guid>
+            <content:encoded><![CDATA[アプリのダウンロード画面などでよくある、アクセスした環境に合わせてダウンロードボタンが変わるしくみを作りましょう]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Draw.ioが VSCodeに対応。機能をご紹介]]></title>
+            <link>https://tomosta.jp/blog/draw-io%e3%81%8c-vscode%e3%81%ab%e5%af%be%e5%bf%9c%e3%80%82%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%94%e7%b4%b9%e4%bb%8b/</link>
+            <guid>https://tomosta.jp/blog/draw-io%e3%81%8c-vscode%e3%81%ab%e5%af%be%e5%bf%9c%e3%80%82%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%94%e7%b4%b9%e4%bb%8b/</guid>
+            <content:encoded><![CDATA[この記事では、「Visual Studio Code」というエディタソフトに「Draw.io」の「Integration」という拡張機能が追加されたニュースについてご紹介しています。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラミングで仕事をするなら会社員→フリーランス→法人化がおすすめ]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%a7%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%99%e3%82%8b%e3%81%aa%e3%82%89%e4%bc%9a%e7%a4%be%e5%93%a1%e2%86%92%e3%83%95%e3%83%aa%e3%83%bc/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%a7%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%99%e3%82%8b%e3%81%aa%e3%82%89%e4%bc%9a%e7%a4%be%e5%93%a1%e2%86%92%e3%83%95%e3%83%aa%e3%83%bc/</guid>
+            <content:encoded><![CDATA[プログラミングで働くには、社会人・フリーランス・法人化など、さまざまな働き方がありますが、おすすめのキャリアプランについて紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2020年版、プログラミング学習のためのPCの選び方]]></title>
+            <link>https://tomosta.jp/blog/2020%e5%b9%b4%e7%89%88%e3%80%81%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e5%ad%a6%e7%bf%92%e3%81%ae%e3%81%9f%e3%82%81%e3%81%aepc%e3%81%ae%e9%81%b8%e3%81%b3%e6%96%b9/</link>
+            <guid>https://tomosta.jp/blog/2020%e5%b9%b4%e7%89%88%e3%80%81%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e5%ad%a6%e7%bf%92%e3%81%ae%e3%81%9f%e3%82%81%e3%81%aepc%e3%81%ae%e9%81%b8%e3%81%b3%e6%96%b9/</guid>
+            <content:encoded><![CDATA[プログラミングを学習するには、PCを準備する必要があります。この機会に新しく環境を準備したいという方のために、ここでは PCの選び方を紹介していきましょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Web? web? ウェブ？ 言葉は正しく使いましょう]]></title>
+            <link>https://tomosta.jp/blog/web-web-%e3%82%a6%e3%82%a7%e3%83%96%ef%bc%9f-%e8%a8%80%e8%91%89%e3%81%af%e6%ad%a3%e3%81%97%e3%81%8f%e4%bd%bf%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86/</link>
+            <guid>https://tomosta.jp/blog/web-web-%e3%82%a6%e3%82%a7%e3%83%96%ef%bc%9f-%e8%a8%80%e8%91%89%e3%81%af%e6%ad%a3%e3%81%97%e3%81%8f%e4%bd%bf%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86/</guid>
+            <content:encoded><![CDATA[例えば、次の一文を見てみましょう。 この一文、英語の大文字や小文字がバラバラでかなり違和感があります。ここでは、「正しい言葉の使い方」について紹介していきましょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラミング学習を始める時のおすすめ方法 2020年版]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e5%ad%a6%e7%bf%92%e3%82%92%e5%a7%8b%e3%82%81%e3%82%8b%e6%99%82%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%96%b9%e6%b3%95-2020/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e5%ad%a6%e7%bf%92%e3%82%92%e5%a7%8b%e3%82%81%e3%82%8b%e6%99%82%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%96%b9%e6%b3%95-2020/</guid>
+            <content:encoded><![CDATA[プログラミングを始める場合、書籍に頼るかスクールに通うしか方法がなかった時代から、今やネット上に無料で良質な資料が溢れていて、YouTubeや動画講座、遠隔のスクールなど、選択肢が非常に多くなっています。
+
+ここでは、プログラミングを始めたいと思ったときのおすすめの学習方法について紹介しましょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[神奈川県庁の HDD横流し問題。HDD/SSD処分の正しい方法は？]]></title>
+            <link>https://tomosta.jp/blog/%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e5%ba%81%e3%81%ae-hdd%e6%a8%aa%e6%b5%81%e3%81%97%e5%95%8f%e9%a1%8c%e3%80%82hdd-ssd%e5%87%a6%e5%88%86%e3%81%ae%e6%ad%a3%e3%81%97%e3%81%84%e6%96%b9%e6%b3%95%e3%81%af/</link>
+            <guid>https://tomosta.jp/blog/%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e5%ba%81%e3%81%ae-hdd%e6%a8%aa%e6%b5%81%e3%81%97%e5%95%8f%e9%a1%8c%e3%80%82hdd-ssd%e5%87%a6%e5%88%86%e3%81%ae%e6%ad%a3%e3%81%97%e3%81%84%e6%96%b9%e6%b3%95%e3%81%af/</guid>
+            <content:encoded><![CDATA[2019年 12月 3日、神奈川県庁の行政文書が保存されたハードディスクを転売したとして、PCの中古売買などを行うブロードリンク社の元社員が逮捕されました。（逮捕は別件の流用で逮捕、その後神奈川県庁の件も認めていると報道 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラミングって何の役に立つの？　プログラミングの勉強法]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%a3%e3%81%a6%e4%bd%95%e3%81%ae%e5%bd%b9%e3%81%ab%e7%ab%8b%e3%81%a4%e3%81%ae%ef%bc%9f%e3%80%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%a3%e3%81%a6%e4%bd%95%e3%81%ae%e5%bd%b9%e3%81%ab%e7%ab%8b%e3%81%a4%e3%81%ae%ef%bc%9f%e3%80%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9/</guid>
+            <content:encoded><![CDATA[「プログラミングが必要なのは分かるけれど、何の役に立つの？」なんていう疑問にお答えします]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BMI計算ツールのレシピ]]></title>
+            <link>https://tomosta.jp/blog/bmi%e8%a8%88%e7%ae%97%e3%83%84%e3%83%bc%e3%83%ab%e3%81%ae%e3%83%ac%e3%82%b7%e3%83%94/</link>
+            <guid>https://tomosta.jp/blog/bmi%e8%a8%88%e7%ae%97%e3%83%84%e3%83%bc%e3%83%ab%e3%81%ae%e3%83%ac%e3%82%b7%e3%83%94/</guid>
+            <content:encoded><![CDATA[BMI（Body Mass Index）とは、身長と体重から導き出される指標で、肥満度を測ることができます。 次の計算式で求めることができます。 BMI = 体重(kb) ÷ (身長(m) × 身長(m)) 例えば、身長 [&hellip;]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラミング学習のサーバー構築ソフトには、MAMPがおすすめ]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e5%ad%a6%e7%bf%92%e3%81%ae%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e6%a7%8b%e7%af%89%e3%82%bd%e3%83%95%e3%83%88%e3%81%ab%e3%81%af%e3%80%81ma/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e5%ad%a6%e7%bf%92%e3%81%ae%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e6%a7%8b%e7%af%89%e3%82%bd%e3%83%95%e3%83%88%e3%81%ab%e3%81%af%e3%80%81ma/</guid>
+            <content:encoded><![CDATA[PHP（Laravel）や WordPress、Pythonなどのサーバーサイドプログラミング言語を学習するのに最適なサーバー環境構築ソフトをご紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Chocolateyで、まっさらWindowsに一気にソフトをインストール]]></title>
+            <link>https://tomosta.jp/blog/chocolatey/</link>
+            <guid>https://tomosta.jp/blog/chocolatey/</guid>
+            <content:encoded><![CDATA[Windowsをクリーンインストール状態から、一気に必要なソフトを揃えられるコマンドラインソフト]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[剰余算を使いこなして、便利にプログラミングしよう]]></title>
+            <link>https://tomosta.jp/blog/%e5%89%b0%e4%bd%99%e7%ae%97%e3%82%92%e4%bd%bf%e3%81%84%e3%81%93%e3%81%aa%e3%81%97%e3%81%a6%e3%80%81%e4%be%bf%e5%88%a9%e3%81%ab%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%97/</link>
+            <guid>https://tomosta.jp/blog/%e5%89%b0%e4%bd%99%e7%ae%97%e3%82%92%e4%bd%bf%e3%81%84%e3%81%93%e3%81%aa%e3%81%97%e3%81%a6%e3%80%81%e4%be%bf%e5%88%a9%e3%81%ab%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%81%97/</guid>
+            <content:encoded><![CDATA[余りを求める「剰余算」、使ったことありますか？　使いこなせばかなり便利です。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[友達と会社をやらない方が良い理由]]></title>
+            <link>https://tomosta.jp/blog/%e5%8f%8b%e9%81%94%e3%81%a8%e4%bc%9a%e7%a4%be%e3%82%92%e3%82%84%e3%82%89%e3%81%aa%e3%81%84%e6%96%b9%e3%81%8c%e8%89%af%e3%81%84%e7%90%86%e7%94%b1/</link>
+            <guid>https://tomosta.jp/blog/%e5%8f%8b%e9%81%94%e3%81%a8%e4%bc%9a%e7%a4%be%e3%82%92%e3%82%84%e3%82%89%e3%81%aa%e3%81%84%e6%96%b9%e3%81%8c%e8%89%af%e3%81%84%e7%90%86%e7%94%b1/</guid>
+            <content:encoded><![CDATA[起業するとき、気のあった仲間と始めることのリスクを紹介します]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ウェブエンジニアになるためのステップとおすすめ教材]]></title>
+            <link>https://tomosta.jp/blog/step_to_webengineer/</link>
+            <guid>https://tomosta.jp/blog/step_to_webengineer/</guid>
+            <content:encoded><![CDATA[ウェブエンジニアになりたいという方の、学習のステップを消化しいていきます。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft build 2019で発表されたあれこれ。Visual Studio Onlie、Windows Terminalなどなど]]></title>
+            <link>https://tomosta.jp/blog/microsoft-build-2019%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%95%e3%82%8c%e3%81%9f%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%80%82visual-studio-onlie%e3%80%81windows-terminal%e3%81%aa%e3%81%a9%e3%81%aa%e3%81%a9/</link>
+            <guid>https://tomosta.jp/blog/microsoft-build-2019%e3%81%a7%e7%99%ba%e8%a1%a8%e3%81%95%e3%82%8c%e3%81%9f%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%80%82visual-studio-onlie%e3%80%81windows-terminal%e3%81%aa%e3%81%a9%e3%81%aa%e3%81%a9/</guid>
+            <content:encoded><![CDATA[2019年 5月 6日から Microsoftのデベロッパー向けイベント『build 2019』が開催されています。 今回、いろいろと面白い発表があったため、まとめておきます。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WordPressのテンプレート階層を攻略せよ]]></title>
+            <link>https://tomosta.jp/blog/wordpress-temlate-tree/</link>
+            <guid>https://tomosta.jp/blog/wordpress-temlate-tree/</guid>
+            <content:encoded><![CDATA[WordPressでのテーマ制作でつまずくポイントの1つである「テンプレート階層」を攻略しましょう]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[オブジェクト指向を「逆」から解説してみる]]></title>
+            <link>https://tomosta.jp/blog/reverse-oop/</link>
+            <guid>https://tomosta.jp/blog/reverse-oop/</guid>
+            <content:encoded><![CDATA[オブジェクト指向は理解するのが難しい。だったら、逆から解説してみます。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[フリーランスが住宅ローンを組むために、やってはいけないこと]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e3%81%8c%e4%bd%8f%e5%ae%85%e3%83%ad%e3%83%bc%e3%83%b3%e3%82%92%e7%b5%84%e3%82%80%e3%81%9f%e3%82%81%e3%81%ab%e3%80%81%e3%82%84%e3%81%a3%e3%81%a6/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e3%81%8c%e4%bd%8f%e5%ae%85%e3%83%ad%e3%83%bc%e3%83%b3%e3%82%92%e7%b5%84%e3%82%80%e3%81%9f%e3%82%81%e3%81%ab%e3%80%81%e3%82%84%e3%81%a3%e3%81%a6/</guid>
+            <content:encoded><![CDATA[フリーランスが住宅ローンを組むには、会社員よりもいろいろ考えないといけない事があります。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[フリーランスが、自宅で仕事をするための3つのポイント]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e3%81%8c%e3%80%81%e8%87%aa%e5%ae%85%e3%81%a7%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae3%e3%81%a4%e3%81%ae%e3%83%9d/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e3%81%8c%e3%80%81%e8%87%aa%e5%ae%85%e3%81%a7%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae3%e3%81%a4%e3%81%ae%e3%83%9d/</guid>
+            <content:encoded><![CDATA[フリーランスは家で仕事ができる！　これは魅力のように見えて、実はかなり難しかったりします。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[英語キーボードが圧倒的におすすめな理由とREALFORCE]]></title>
+            <link>https://tomosta.jp/blog/english-keyboard/</link>
+            <guid>https://tomosta.jp/blog/english-keyboard/</guid>
+            <content:encoded><![CDATA[プログラミング開発には、英語配列のキーボードが圧倒的におすすめです。ここでは、その利点とREALFORCEの利点について紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[『車輪の再発明』がダメな理由]]></title>
+            <link>https://tomosta.jp/blog/%e3%80%8e%e8%bb%8a%e8%bc%aa%e3%81%ae%e5%86%8d%e7%99%ba%e6%98%8e%e3%80%8f%e3%81%8c%e3%83%80%e3%83%a1%e3%81%aa%e7%90%86%e7%94%b1/</link>
+            <guid>https://tomosta.jp/blog/%e3%80%8e%e8%bb%8a%e8%bc%aa%e3%81%ae%e5%86%8d%e7%99%ba%e6%98%8e%e3%80%8f%e3%81%8c%e3%83%80%e3%83%a1%e3%81%aa%e7%90%86%e7%94%b1/</guid>
+            <content:encoded><![CDATA[『車輪の再発明』という言葉をご存知でしょうか。例えば馬車を作りたい場合、車輪というベーシックなパーツから設計をし直さなくても、すでにある車輪を使えば効率よく馬車を作ることができます。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラミング教室は不要！？ 親子でプログラミングを学ぶ方法]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e6%95%99%e5%ae%a4%e3%81%af%e4%b8%8d%e8%a6%81%ef%bc%81%ef%bc%9f-%e8%a6%aa%e5%ad%90%e3%81%a7%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e6%95%99%e5%ae%a4%e3%81%af%e4%b8%8d%e8%a6%81%ef%bc%81%ef%bc%9f-%e8%a6%aa%e5%ad%90%e3%81%a7%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f/</guid>
+            <content:encoded><![CDATA[プログラミング教室が活況ですが、果たして子供をプログラミング教室に通わせる必要はあるのでしょうか？ ここでは、家庭学習の方法について紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vue.jsで令和対応、和暦変換コンバーターを作ってみた]]></title>
+            <link>https://tomosta.jp/blog/vue-year-converter/</link>
+            <guid>https://tomosta.jp/blog/vue-year-converter/</guid>
+            <content:encoded><![CDATA[Vue.jsは、JavaScriptプログラムを簡単に作成できるライブラリーです。ここでは、Vue.jsを利用して西暦を和暦に変換できるコンバーターを作成してみました。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[仕事探しに、クラウドソーシングをおすすめしない理由]]></title>
+            <link>https://tomosta.jp/blog/%e4%bb%95%e4%ba%8b%e6%8e%a2%e3%81%97%e3%81%ab%e3%80%81%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%b3%e3%82%b0%e3%82%92%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%81%97%e3%81%aa/</link>
+            <guid>https://tomosta.jp/blog/%e4%bb%95%e4%ba%8b%e6%8e%a2%e3%81%97%e3%81%ab%e3%80%81%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%b3%e3%82%b0%e3%82%92%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%81%97%e3%81%aa/</guid>
+            <content:encoded><![CDATA[前回の投稿で、フリーランスになってから「仕事探し」をすることをおすすめし、その中でクラウドソーシングはおすすめしないと紹介しました。今回は、その点について、もう少し詳しく紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[フリーランスが個人事業主として独立するときに、やっておきたい5つのこと]]></title>
+            <link>https://tomosta.jp/blog/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e3%81%8c%e5%80%8b%e4%ba%ba%e4%ba%8b%e6%a5%ad%e4%b8%bb%e3%81%a8%e3%81%97%e3%81%a6%e7%8b%ac%e7%ab%8b%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%ab/</link>
+            <guid>https://tomosta.jp/blog/%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e3%81%8c%e5%80%8b%e4%ba%ba%e4%ba%8b%e6%a5%ad%e4%b8%bb%e3%81%a8%e3%81%97%e3%81%a6%e7%8b%ac%e7%ab%8b%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%ab/</guid>
+            <content:encoded><![CDATA[フリーランスとして活動しようと思ったとき、選択肢として「個人事業主になる」のと「法人を設立する」という方法があります。
+
+ここでは、個人事業主として独立するときのステップをご紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラミングを独学したい人のための、入門書との付き合い方]]></title>
+            <link>https://tomosta.jp/blog/book-for-selfstudying/</link>
+            <guid>https://tomosta.jp/blog/book-for-selfstudying/</guid>
+            <content:encoded><![CDATA[プログラミングの学習には、スクールやオンライン講座などもありますが、やはり書籍も有力です。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[フリーランスになりたい人が、新社会人のうちにやっておきたい3つのこと]]></title>
+            <link>https://tomosta.jp/blog/3point_for_freelance/</link>
+            <guid>https://tomosta.jp/blog/3point_for_freelance/</guid>
+            <content:encoded><![CDATA[独立を目指す方は、「ブログを書く」「家計簿をつける」「本や映像教材を買う」をやっておきましょう]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WordPressの開発環境を爆速で作れる『Local by Flywheel』]]></title>
+            <link>https://tomosta.jp/blog/local-by-flywheel/</link>
+            <guid>https://tomosta.jp/blog/local-by-flywheel/</guid>
+            <content:encoded><![CDATA[WordPressのテスト環境が作れる Local by Flywheelを紹介します]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[なぜ、OSが違うとソフトがインストールできないの？　マルチプラットフォームの不思議]]></title>
+            <link>https://tomosta.jp/blog/os-software/</link>
+            <guid>https://tomosta.jp/blog/os-software/</guid>
+            <content:encoded><![CDATA[Windowsユーザーが macOS向けのソフトを使えないのはなぜか。プラットフォームの依存性とマルチプラットフォームについて紹介します]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[仕事相手の訪問は早すぎても遅すぎてもダメな理由]]></title>
+            <link>https://tomosta.jp/blog/meeting-time/</link>
+            <guid>https://tomosta.jp/blog/meeting-time/</guid>
+            <content:encoded><![CDATA[フリーランスが打ち合わせに先方に伺うとき、遅刻はもちろんダメですが、早すぎても迷惑になります。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[最初に学ぶなら、どのプログラミング言語が良いか]]></title>
+            <link>https://tomosta.jp/blog/what-is-the-first-programming-language/</link>
+            <guid>https://tomosta.jp/blog/what-is-the-first-programming-language/</guid>
+            <content:encoded><![CDATA[プログラミングを学習するとき、どの言語から学ぶのが学びやすいでしょう？ ここでは、ケース別に紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Vue.js+Bootstrapで小銭計算プログラムを作ろう]]></title>
+            <link>https://tomosta.jp/blog/vuejs-bootstrap-coin-calc/</link>
+            <guid>https://tomosta.jp/blog/vuejs-bootstrap-coin-calc/</guid>
+            <content:encoded><![CDATA[680円は、500円玉が何枚で100円玉が何枚か。それを計算するプログラムを Vue.jsで作ってみました。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[安全にパスワード運用するなら、覚えるのをやめよう]]></title>
+            <link>https://tomosta.jp/blog/safety-password/</link>
+            <guid>https://tomosta.jp/blog/safety-password/</guid>
+            <content:encoded><![CDATA[パスワードは複雑なもので、他のサイトと別のものに。そんな理想を、記憶ベースで実現するのは大変です。
+
+そこで、パスワード管理ソフトを使いましょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Scratch 3.0で小銭計算：800円は、500円玉何枚？　100円玉は？]]></title>
+            <link>https://tomosta.jp/blog/scrach-coin-program/</link>
+            <guid>https://tomosta.jp/blog/scrach-coin-program/</guid>
+            <content:encoded><![CDATA[800円の商品を買うには、500円玉と100円玉を3枚出す。買い物の時に自然と行うこの作業を、Scratchで実現するとどんなプログラムになるでしょう。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[独立するなら、フリーランス？　法人登記？　おすすめをご紹介]]></title>
+            <link>https://tomosta.jp/blog/freelance_or_startup/</link>
+            <guid>https://tomosta.jp/blog/freelance_or_startup/</guid>
+            <content:encoded><![CDATA[会社を辞めて独立しようとした場合、フリーランス（個人事業主）として活動する方法と、会社を設立（法人登記）する方法があります。
+
+どちらの方が良いのでしょう？　ちなみに私は、独立直後に会社を設立しましたが、若干後悔しました・・　そのあたりも含めてメリット・デメリットをご紹介します。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Scratch 3.0 でえいたんごゲームを作ってみた]]></title>
+            <link>https://tomosta.jp/blog/scratch3-english-word-quiz/</link>
+            <guid>https://tomosta.jp/blog/scratch3-english-word-quiz/</guid>
+            <content:encoded><![CDATA[Scratch 3.0を使って、こども向け英単語学習ツールを作ってみました。]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[プログラマーとして働くなら、会社員か独立か]]></title>
+            <link>https://tomosta.jp/blog/salaryman-or-freelance/</link>
+            <guid>https://tomosta.jp/blog/salaryman-or-freelance/</guid>
+            <content:encoded><![CDATA[プログラマーとして働こうとした場合、開発会社などに就職をして働くのか、それともフリーランスや法人化をして独立して働くのかの選択に迫られます。
+
+ここでは、会社員を4年、独立して16年（2019年現在）の筆者が、それぞれのメリット・デメリットを紹介しましょう。]]></content:encoded>
+        </item>
+    </channel>
+</rss>
