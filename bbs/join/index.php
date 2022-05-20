@@ -1,33 +1,38 @@
 <?php
-$form = [
-    'name' => '',
-    'email' => '',
-    'password' => ''
-];
-$error = [];
-
-function h($value)
-{
-    return htmlspecialchars($value, ENT_QUOTES);
+session_start();
+require('../library.php');
+if(isset($_GET['action']) && $_GET['action'] === 'rewrite' && isset($_SESSION['form'])){
+    $form = $_SESSION['form'];
+} else {
+    $form = [
+        'name' => '',
+        'email' => '',
+        'password' => ''
+    ];
 }
+
+$error = [];
 
 echo h($form['password']);
 // フォームの内容をチェック
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    // ニックネームのチェック
     $form['name'] = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);
     if ($form['name'] === '') {
         $error['name'] = 'blank';
     }
 
+    // Emailのチェック
     $form['email'] = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
     if ($form['email'] === '') {
         $error['email'] = 'blank';
     }
 
+    // パスワードのチェック
     $form['password'] = filter_input(INPUT_POST, 'password', FILTER_SANITIZE_STRING);
     if ($form['password'] === '') {
         $error['password'] = 'blank';
-    } elseif(strlen($form['password']) < 4) {
+    } elseif (strlen($form['password']) < 4) {
         $error['password'] = 'length';
     }
 
@@ -40,8 +45,24 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     }
 
-}
+    if (empty($error)) {
+        $_SESSION['form'] = $form;
 
+        // 画像のアップロード
+        if ($image['name'] !== '') {
+            $filename = date('Ymdhis') . '_' . $image['name'];
+            if (!move_uploaded_file($image['tmp_name'], '../member_picture/' . $filename)) {
+                die('ファイルのアップロードに失敗しました');
+            }
+            $_SESSION['form']['image'] = $filename;
+        } else {
+            $_SESSION['form']['image'] = '';
+        }
+
+        header('Location: check.php');
+        exit();
+    }
+}
 
 
 ?>
@@ -69,24 +90,24 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <dl>
                     <dt>ニックネーム<span class="required">必須</span></dt>
                     <dd>
-                        <input type="text" name="name" size="35" maxlength="255" value="<?php echo h($form['name']);?>" />
+                        <input type="text" name="name" size="35" maxlength="255" value="<?php echo h($form['name']); ?>" />
                         <?php if (isset($error['name']) && $error['name'] === 'blank') : ?>
                             <p class="error">* ニックネームを入力してください</p>
                         <?php endif; ?>
                     </dd>
                     <dt>メールアドレス<span class="required">必須</span></dt>
                     <dd>
-                        <input type="text" name="email" size="35" maxlength="255" value="<?php echo h($form['email']);?>" />
+                        <input type="text" name="email" size="35" maxlength="255" value="<?php echo h($form['email']); ?>" />
                         <?php if (isset($error['email']) && $error['email'] === 'blank') : ?>
                             <p class="error">* メールアドレスを入力してください</p>
                         <?php endif; ?>
                         <p class="error">* 指定されたメールアドレスはすでに登録されています</p>
                     <dt>パスワード<span class="required">必須</span></dt>
                     <dd>
-                        <input type="password" name="password" size="10" maxlength="20" value="<?php echo h($form['password']);?>" />
+                        <input type="password" name="password" size="10" maxlength="20" value="<?php echo h($form['password']); ?>" />
                         <?php if (isset($error['password']) && $error['password'] === 'blank') : ?>
                             <p class="error">* パスワードを入力してください</p>
-                        <?php elseif ($error['password'] === 'length'): ?>
+                        <?php elseif ($error['password'] === 'length') : ?>
                             <p class="error">* パスワードは4文字以上で入力してください</p>
                         <?php endif; ?>
 
@@ -95,8 +116,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <dd>
                         <input type="file" name="image" size="35" value="" />
                         <?php if (isset($error['image']) && $error['image'] === 'type') : ?>
-                        <p class="error">* 写真などは「.png」または「.jpg」の画像を指定してください</p>
-                        <p class="error">* 恐れ入りますが、画像を改めて指定してください</p>
+                            <p class="error">* 写真などは「.png」または「.jpg」の画像を指定してください</p>
+                            <p class="error">* 恐れ入りますが、画像を改めて指定してください</p>
                         <?php endif; ?>
                     </dd>
                 </dl>
