@@ -12,10 +12,7 @@ if(isset($_SESSION['form'])){
  $form = $_SESSION['form'];
 // var_dump($_SESSION('form'));
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
-	$db = new mysqli('localhost', 'root', 'root', 'min_bbs');
-	if(!$db){
-		die($db->error);
-	}
+	$db = dbconnect();
 
 	// パスワードをDBに直接保管しない
 	$password = password_hash($form['password'], PASSWORD_DEFAULT);
