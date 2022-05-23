@@ -1,3 +1,21 @@
+<?php
+session_start();
+require('library.php');
+$id = $_SESSION['id'];
+$name = $_SESSION['name'];
+// ログイン情報がないとログインページへ移る
+if (isset($_SESSION['id']) && isset($_SESSION['name'])) {
+    $id = $_SESSION['id'];
+    $name = $_SESSION['name'];
+} else {
+    header('Location: login.php');
+    exit();
+}
+
+$db = dbconnect();
+
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 
