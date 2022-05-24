@@ -1,7 +1,7 @@
 <?php
 session_start();
 require('library.php');
-$id = $_SESSION['id'];
+$member_id = $_SESSION['id'];
 $name = $_SESSION['name'];
 // ログイン情報がないとログインページへ移る
 if (isset($_SESSION['id']) && isset($_SESSION['name'])) {
