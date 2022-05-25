@@ -23,12 +23,12 @@ $db = dbconnect();
 // メッセージの編集
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $message = filter_input(INPUT_POST, 'message', FILTER_SANITIZE_STRING);
-  $stmt = $db->prepare('update posts set message=? where id=?');
+  $modified = filter_input(INPUT_POST, 'modified', FILTER_SANITIZE_STRING);
+  $stmt = $db->prepare('update posts set message=?, modified=? where id=?');
   if (!$stmt) {
       die($db->error);
   }
-
-  $stmt->bind_param('si', $message, $id);
+  $stmt->bind_param('ssi', $message, $modified, $id);
   $success = $stmt->execute();
   if (!$success) {
       die($db->error);
@@ -37,7 +37,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   header('location: index.php');
   exit();
 }
-var_dump($member_id);
 ?>
 
 <!DOCTYPE html>
@@ -79,6 +78,9 @@ var_dump($member_id);
             <dt><?php echo h($name); ?>さん、メッセージを編集してください。</dt>
             <dd>
               <textarea name="message" cols="50" rows="5"><?php echo $message; ?></textarea>
+            </dd>
+            <dd>
+              <input type="hidden" name="modified" value="<?php echo jp_time(); ?>">
             </dd>
           </dl>
           <div>
